@@ -6,4 +6,4 @@ Interested in software engineering, game development, and data.
 
 ### Portfolio
 
-[View my portfolio](YOUR-GITHUB-IO-URL)
+[View my portfolio](https://itsh1ghn00n.github.io/)
